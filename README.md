@@ -28,13 +28,11 @@ Technologies that I used to develop this mobile client
 
 ### Requirements
 
+```bash
 # Install the dependencies
 $ yarn
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
-
 # If you are going to emulate with android, run this command
-# Be sure to have the emulator open
 $ yarn android
 
 # If you are going to emulate with ios, run this command
